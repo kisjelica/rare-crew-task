@@ -1,4 +1,4 @@
 export class Employee {
-    name: String;
+    name: string;
     totalTimeWorked: number;
 }

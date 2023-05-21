@@ -1,3 +1,7 @@
 .highlighted {
     background-color: red;
   }
+.chart-container {
+    width: 70%;
+    margin: auto;
+}
